@@ -50,11 +50,9 @@ const 1984 = "Vinícius Lima";   // linha 19
 const CronicasDeNarnia = "Eduarda Santos";   // linha 20
 ```
 
-
-
 Para realizar isso, você clica com o botão direito do mouse, seleciona a opção "Inspecionar" e, em seguida, acessa a aba "Console".
 
-![Alt text](./image-exe-01.png)
+![Alt text](../assets/image-exe-01.png)
 
 Digite cada linha do código Javascript e pressione a tecla Enter. O que aconteceu? O que foi exibido na tela do console?
 
